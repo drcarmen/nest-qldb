@@ -50,7 +50,7 @@
   "dependencies": {
     "@nestjs/common": "^8.2.4",
     "amazon-qldb-driver-nodejs": "^2.2.0",
-    "ion-js": "^4.2.1",
+    "ion-js": "^4.3.0",
     "jsbi": "^3.1.1",
     "lodash": "^4.17.21"
   },
